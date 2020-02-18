@@ -8,7 +8,7 @@
 
 ## Testing
 
-When it comes to testing AngularJS applications, there are two main types of tests you want to cover: unit and e2e
+When it comes to testing AngularJS  applications, there are two main types of tests you want to cover: unit and e2e
 tests (mind you the "AND" not the "OR" ;)). Both are equally important, so if you care at all about the sanity of your
 application, and, why not admit it, yours too, then writing unit and e2e tests will hold an important place in your
 process.
